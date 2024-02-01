@@ -16,7 +16,6 @@ Django==4.1.3
 dotenv==0.0.5
 exceptiongroup==1.2.0
 # Editable install with no version control (facebook_scraper==1.0)
--e /Users/gabis/dev/culturio/culturio_new/app/api/scraper-api
 Flask==2.3.3
 Flask-SQLAlchemy==3.0.5
 frozenlist==1.3.3
