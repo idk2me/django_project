@@ -1,4 +1,5 @@
 *.env*
+env/
 .python-version
 .DS_Store
 __pycache__/
