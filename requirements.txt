@@ -3,7 +3,6 @@ blinker==1.6.2
 click==8.1.7
 Django==5.0.1
 environ==1.0
-facebook-scraper==1.0
 Flask==2.3.3
 grpcio==1.60.0
 grpcio-tools==1.60.0
