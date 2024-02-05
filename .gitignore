@@ -8,3 +8,6 @@ __pycache__/
 *.sqlite3
 prometheus*/
 /env/
+.venv/
+.node_modules/
+frontend/README.md
